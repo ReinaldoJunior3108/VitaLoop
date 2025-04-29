@@ -7,6 +7,9 @@
 - 🔥 **Contador de Calorias**  
   Acompanhe o consumo diário de calorias com base nos alimentos registrados.
 
+- 🥗 **Cardapio**  
+  Cardapio e Receitas personalizadas para uma vida saudável.
+
 - 🏃 **Registro de Atividades Físicas**  
   Registre treinos e atividades com duração, intensidade e calorias estimadas.
 
