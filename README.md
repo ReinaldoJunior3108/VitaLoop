@@ -1,36 +1,31 @@
-# 💼 Meu Portfólio Pessoal
+# VitaLoop
 
-Este é o repositório do meu portfólio pessoal, desenvolvido com **ReactJS**, **TailwindCSS** e **JavaScript**. O objetivo é apresentar meus projetos, habilidades e experiências com um design moderno, responsivo e focado na usabilidade.
+**VitaLoop** é uma aplicação voltada para o equilíbrio do bem-estar físico e alimentar. Com funcionalidades que ajudam a monitorar calorias, registrar atividades físicas e controlar refeições, o app é uma ferramenta completa para quem busca uma rotina mais saudável e consciente.
 
-## 🧰 Tecnologias Utilizadas
+## 🚀 Funcionalidades
 
-- ⚛️ **ReactJS** — biblioteca JavaScript para construção de interfaces de usuário.
-- 💨 **TailwindCSS** — framework utilitário para estilização rápida e responsiva.
-- 📜 **JavaScript (ES6+)** — linguagem principal para lógica e interatividade.
-- 🧹 **Componentes reutilizáveis** — foco na modularidade e manutenibilidade do código.
+- 🔥 **Contador de Calorias**  
+  Acompanhe o consumo diário de calorias com base nos alimentos registrados.
 
-## ✨ Funcionalidades
+- 🏃 **Registro de Atividades Físicas**  
+  Registre treinos e atividades com duração, intensidade e calorias estimadas.
 
-- Design moderno e responsivo
-- Animações suaves e interações dinâmicas
-- Seção de projetos com links e descrições
-- Área de contato com formulário funcional
-- Navegação fluida por rolagem ou menu
+- 🍽️ **Registro de Refeições**  
+  - Cadastro manual de alimentos consumidos  
+  - Opção de **registro por foto** para facilitar o acompanhamento
 
-## 🗄️ Layout e Design
+## 📱 Objetivo
 
-O design segue tendências atuais de UI/UX, com foco em:
+Fornecer uma solução simples e intuitiva para ajudar pessoas a manterem uma rotina equilibrada entre alimentação e atividades físicas, promovendo saúde e autoconhecimento.
 
-- Tipografia limpa
-- Paleta de cores harmônica
-- Componentes bem espaçados e acessíveis
-- Compatibilidade com dispositivos móveis
+## 🛠️ Tecnologias previstas
 
-## 🚀 Deploy
+> *(Exemplo – ajuste conforme seu stack)*
 
-## 📨 Contato
+- Frontend: ReactJS / React Native / Flutter
+- Backend: Node.js / Express / Firebase
+- Banco de dados: MongoDB / Firestore
+- Armazenamento de imagens: Firebase Storage / AWS S3
+- Autenticação: Firebase Auth / JWT
 
-Se quiser entrar em contato, você pode me encontrar em:
-
-- Email: reilaldopagno@gmail.com.com  
-- LinkedIn: [reinaldojuniorweb](https://linkedin.com/in/reinaldojuniorweb)
+## 📦 Instalação e uso (em breve)
