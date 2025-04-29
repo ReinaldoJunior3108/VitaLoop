@@ -20,8 +20,6 @@ Fornecer uma solução simples e intuitiva para ajudar pessoas a manterem uma ro
 
 ## 🛠️ Tecnologias previstas
 
-> *(Exemplo – ajuste conforme seu stack)*
-
 - Frontend: ReactJS / React Native / Flutter
 - Backend: Node.js / Express / Firebase
 - Banco de dados: MongoDB / Firestore
